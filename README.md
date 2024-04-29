@@ -8,9 +8,9 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a chatbot for statistic test desicion... send help please** 
+ 🔭 I’m currently working on : **a chatbot for statistic test decision... send help please** 
  
-⚡ Fun fact my hobbie is collect useless data
+⚡ Fun fact: my hobbie is collect useless data
 
 </div>
 
