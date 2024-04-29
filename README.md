@@ -12,5 +12,16 @@
  
 ⚡ Fun fact my hobbie is collect useless data
 
- </div>
+</div>
+
+<h3 align="center">⚒️Languages-Tools⚒️</h3>
+<br/>
+<div align="center">
+   <img src="https://skillicons.dev/icons?i=python,javascript,mysql"/> 
+   <img src="https://skillicons.dev/icons?i=html,css,vscode,github,git"/>
+    
+</div>
+
+<br/>
+<hr/>
 
