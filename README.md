@@ -1,16 +1,16 @@
-### Hi there 👋
+<h1 align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&pause=1000&color=2DAE5C&center=true&vCenter=true&random=false&width=435&lines=Hi%2C+I+am+Ale+👋!" alt="Typing SVG" /></a>
+</h1>
 
-<!--
-**aleruna/aleruna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">Eternal Student</h3>
 
-Here are some ideas to get you started:
+<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+ 
+ 🔭 I’m currently working on **a chatbot for statistic test desicion... send help please** 
+ 
+⚡ Fun fact my hobbie is collect useless data
+
+ </div>
+
